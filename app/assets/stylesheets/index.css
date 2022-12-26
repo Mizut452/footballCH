@@ -1,3 +1,9 @@
-.header-list {
-   color: red;
+#nav {
+   list-style: none;
+   over-flow: hidden;
+}
+
+#menu-nav {
+    list-style: none;
+    over-flow: hidden;
 }
